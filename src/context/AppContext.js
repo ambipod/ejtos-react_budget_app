@@ -1,6 +1,6 @@
 import React, { createContext, useReducer } from 'react';
 
-import CurrencyDropdown from '../components/CurrencyDropdown';
+
 
 
 // 5. The reducer - this is used to update the state, based on the action
