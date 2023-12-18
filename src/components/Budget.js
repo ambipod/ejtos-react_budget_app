@@ -27,7 +27,7 @@ const Budget = () => {
 
         dispatch({
             type: 'SET_BUDGET',
-            payload: newBudget
+            payload: {currency},newBudget
         });
     }
 
